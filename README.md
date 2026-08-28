@@ -48,13 +48,19 @@ I'm passionate about **software development, data science, machine learning, and
 
 ---
 
-## 📌 Featured Projects
-
-### 🎨 AirDraw Pro
-AI-powered virtual drawing application using **Python, OpenCV and MediaPipe**, allowing users to draw in the air using hand gestures.
+## 🚀 Featured Projects
 
 ### 👥 Friends Manager App
-A full-stack web application for managing friends, including login, dashboard, friend details and adding new friends.
+A full-stack web application for managing friends, featuring user login, a friends dashboard, friend details, and the ability to add new friends.
+
+🔗 [View Project on GitHub](https://github.com/Ananya-L-Bhargav/friends-manager-app)
+
+---
+
+### 🎨 AirDraw Pro
+An AI-powered virtual drawing application built with Python, OpenCV, and MediaPipe that allows users to draw in the air using hand gestures.
+
+🔗 [View Project on GitHub](https://github.com/Ananya-L-Bhargav/AirDraw-Pro)
 
 ---
 
