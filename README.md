@@ -76,6 +76,8 @@ I'm looking forward to opportunities where I can apply my technical knowledge, s
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating, and connecting with other developers and technology enthusiasts!
+💼 **LinkedIn:** [Ananya L Bhargav](https://www.linkedin.com/in/ananya-l-bhargav/)
+
+I'm always open to learning, collaborating, and connecting with other developers and technology enthusiasts.
 
 ⭐ Thanks for visiting my profile!
