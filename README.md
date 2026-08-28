@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Ananya L Bhargav!
 
-<!--
-**Ananya-L-Bhargav/Ananya-L-Bhargav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Information Science & Engineering Student  
+💻 Aspiring Software & Data Professional
 
-Here are some ideas to get you started:
+I'm passionate about **software development, data science, machine learning, and problem solving**. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on development and coding practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Pursuing **B.E. in Information Science & Engineering**
+- 💻 Strong foundation in **Python, Java & C++**
+- 🧠 Interested in **Data Structures & Algorithms**
+- 📊 Exploring **Data Science, Machine Learning & Data Analytics**
+- 🌐 Experienced in **Full Stack Web Development**
+- 🗄️ Working with **MySQL & SQL**
+- 🔧 Enjoy building practical projects and learning new technologies
+
+---
+
+## 🛠️ Technical Skills
+
+**Languages**
+- Python
+- Java
+- C++
+- SQL
+
+**Web Development**
+- HTML
+- CSS
+- JavaScript
+- Full Stack Development
+
+**Database**
+- MySQL
+
+**Core Concepts**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Problem Solving
+- Database Management
+
+**Tools**
+- Git
+- GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 🎨 AirDraw Pro
+AI-powered virtual drawing application using **Python, OpenCV and MediaPipe**, allowing users to draw in the air using hand gestures.
+
+### 👥 Friends Manager App
+A full-stack web application for managing friends, including login, dashboard, friend details and adding new friends.
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Data Science & Machine Learning
+- SQL & Database Management
+- Software Development
+- Full Stack Web Development
+
+---
+
+## 🎯 Career Interests
+
+I'm looking forward to opportunities where I can apply my technical knowledge, solve real-world problems, and grow as a **Software Developer / Data Professional**.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaborating, and connecting with other developers and technology enthusiasts!
+
+⭐ Thanks for visiting my profile!
