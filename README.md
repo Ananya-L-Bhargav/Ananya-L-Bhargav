@@ -3,7 +3,7 @@
 🎓 Final Year Information Science & Engineering Student  
 💻 Aspiring Software & Data Professional
 
-I'm passionate about **software development, data science, machine learning, and problem solving**. I enjoy turning ideas into practical projects and continuously improving my technical skills through hands-on development and coding practice.
+I'm passionate about **software development, data science, machine learning, and problem solving**. I enjoy building practical projects and continuously improving my technical skills through hands-on development and coding practice.
 
 ---
 
@@ -13,7 +13,7 @@ I'm passionate about **software development, data science, machine learning, and
 - 💻 Strong foundation in **Python, Java & C++**
 - 🧠 Interested in **Data Structures & Algorithms**
 - 📊 Exploring **Data Science, Machine Learning & Data Analytics**
-- 🌐 Experienced in **Full Stack Web Development**
+- 🌐 Building projects with **Full Stack Web Development**
 - 🗄️ Working with **MySQL & SQL**
 - 🔧 Enjoy building practical projects and learning new technologies
 
@@ -21,28 +21,28 @@ I'm passionate about **software development, data science, machine learning, and
 
 ## 🛠️ Technical Skills
 
-**Languages**
+### Languages
 - Python
 - Java
 - C++
 - SQL
 
-**Web Development**
+### Web Development
 - HTML
 - CSS
 - JavaScript
 - Full Stack Development
 
-**Database**
+### Database
 - MySQL
 
-**Core Concepts**
+### Core Concepts
 - Data Structures & Algorithms
 - Object-Oriented Programming
 - Problem Solving
 - Database Management
 
-**Tools**
+### Tools
 - Git
 - GitHub
 
@@ -51,6 +51,7 @@ I'm passionate about **software development, data science, machine learning, and
 ## 🚀 Featured Projects
 
 ### 👥 Friends Manager App
+
 A full-stack web application for managing friends, featuring user login, a friends dashboard, friend details, and the ability to add new friends.
 
 🔗 [View Project on GitHub](https://github.com/Ananya-L-Bhargav/friends-manager-app)
@@ -58,7 +59,8 @@ A full-stack web application for managing friends, featuring user login, a frien
 ---
 
 ### 🎨 AirDraw Pro
-An AI-powered virtual drawing application built with Python, OpenCV, and MediaPipe that allows users to draw in the air using hand gestures.
+
+An AI-powered virtual drawing application built with **Python, OpenCV, and MediaPipe** that allows users to draw in the air using hand gestures.
 
 🔗 [View Project on GitHub](https://github.com/Ananya-L-Bhargav/AirDraw-Pro)
 
