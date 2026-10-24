@@ -32,7 +32,7 @@ Education: B.E. Information Science and Engineering
 College: SJB Institute of Technology, Bengaluru
 Graduation: 2027
 CGPA: 9.15
-Current Focus: Full-Stack Development, Database Design, Applied AI
+Current Focus: Python, Data Structures & Algorithms (DSA), Full-Stack Development (FSD), and Artificial Intelligence (AI)
 Achievements: CodeCarnage 2.0 Hackathon; IEEE Bangalore Section Poster Presentation
 Certifications: NPTEL Business Fundamentals for Entrepreneurs (92%, Elite + Gold Medal)
 ```
