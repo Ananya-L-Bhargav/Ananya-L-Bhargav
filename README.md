@@ -1,6 +1,6 @@
  <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=1,11,21,31&amp;height=220&amp;section=header&amp;text=Ananya%20L%20Bhargav&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=Information%20Science%20%26amp%3B%20Engineering%20Scholar%20%7C%20Full%20Stack%20%26amp%3B%20Data%20Engineer&amp;descAlignY=62&amp;descSize=19&amp;animation=fadeIn" width="100%" alt="Ananya L Bhargav Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=ff69b4&amp;height=220&amp;section=header&amp;text=Ananya%20L%20Bhargav&amp;fontSize=52&amp;fontColor=ffffff&amp;fontAlignY=42&amp;desc=Information%20Science%20%26amp%3B%20Engineering%20Scholar%20%7C%20Full%20Stack%20%26amp%3B%20Data%20Engineer&amp;descAlignY=62&amp;descSize=19&amp;animation=fadeIn" width="100%" alt="Ananya L Bhargav Header" />
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Information+Science+Engineer+%40+SJBIT;Full-Stack+MERN+%26amp%3B+FastAPI+Developer;Database+Design+%26amp%3B+Test+Data+Engineer;Hackathon+Winner+%7C+Problem+Solver" alt="Typing SVG" />
