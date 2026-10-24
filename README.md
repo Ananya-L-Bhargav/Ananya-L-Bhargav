@@ -60,39 +60,39 @@ Certifications: NPTEL Business Fundamentals for Entrepreneurs (92%, Elite + Gold
   <tr>
     <td align="center" width="25%"><strong>Languages</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=c%2B%2B&amp;logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&amp;logo=c&amp;logoColor=black" alt="C" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" height="35" alt="Python" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" height="35" alt="Java" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white" height="35" alt="C++" />
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" height="35" alt="C" />
     </td>
   </tr>
   <tr>
     <td align="center" width="25%"><strong>Web &amp; Frameworks</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&amp;logo=react&amp;logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;logo=node.js&amp;logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&amp;logo=fastapi&amp;logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;logo=css3&amp;logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" height="35" alt="React" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=node.js&amp;logoColor=white" height="35" alt="Node.js" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&amp;logo=fastapi&amp;logoColor=white" height="35" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" height="35" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white" height="35" alt="CSS3" />
     </td>
   </tr>
   <tr>
     <td align="center" width="25%"><strong>Databases &amp; Tools</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/SQL-CC2927?style=flat-square&amp;logo=microsoftsqlserver&amp;logoColor=white" alt="SQL" />
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" height="35" alt="MySQL" />
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" height="35" alt="MongoDB" />
+      <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&amp;logo=microsoftsqlserver&amp;logoColor=white" height="35" alt="SQL" />
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" height="35" alt="Git" />
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" height="35" alt="GitHub" />
     </td>
   </tr>
   <tr>
     <td align="center" width="25%"><strong>Core Concepts</strong></td>
     <td>
-      <code>Object-Oriented Programming (OOP)</code> ·
-      <code>Data Structures &amp; Algorithms</code> ·
-      <code>DBMS</code> ·
-      <code>Operating Systems</code> ·
+      <code>OOP</code> &nbsp;
+      <code>Data Structures &amp; Algorithms</code> &nbsp;
+      <code>DBMS</code> &nbsp;
+      <code>Operating Systems</code> &nbsp;
       <code>Computer Networks</code>
     </td>
   </tr>
