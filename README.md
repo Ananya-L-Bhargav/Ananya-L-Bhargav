@@ -1,29 +1,25 @@
 <div align="center">
 
-<!-- Modern Animated Header with Name -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=220&section=header&text=Ananya%20L%20Bhargav&fontSize=52&fontColor=ffffff&fontAlignY=42&desc=Information%20Science%20%26%20Engineering%20Scholar%20%7C%20Full%20Stack%20%26%20Data%20Engineer&descAlignY=62&descSize=19&animation=fadeIn" width="100%" alt="Ananya L Bhargav Header" />
+# Ananya L Bhargav
+### Information Science & Engineering Undergraduate | SJB Institute of Technology (2023 - 2027)
 
-<!-- Typing SVG Subtitle -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Science+Engineer+@+SJBIT+(9.15+CGPA);Full-Stack+MERN+%26+FastAPI+Developer;Database+Design+%26+Test+Data+Engineer;Hackathon+Winner+%7C+Problem+Solver" alt="Typing SVG" />
+<!-- Dynamic Typing Subtitle -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Information+Science+Engineer+@+SJBIT+(9.15+CGPA);Full-Stack+MERN+%26+FastAPI+Developer;Database+Design+%26+Test+Data+Engineer;Hackathon+Winner+%7C+Problem+Solver" alt="Typing Subtitle" />
+
+<br/><br/>
+
+<!-- Contact & Social Badges -->
+<a href="https://linkedin.com/in/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-
-<br/>
-
-<!-- Social Connect Badges -->
-<p align="center">
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:ananyal.bhargav1@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/Ananya-L-Bhargav" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+&nbsp;
+<a href="mailto:ananyal.bhargav1@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+&nbsp;
+<a href="https://github.com/Ananya-L-Bhargav" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -129,5 +125,5 @@ Certifications: Elite + Gold Medal @ NPTEL (92%) | AWS Cloud | MATLAB ML
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=31,21,11,1&height=100&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=80&section=footer" width="100%" alt="Footer" />
 </div>
